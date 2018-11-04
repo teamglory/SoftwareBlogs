@@ -7,6 +7,6 @@ Program2
 
 处理之后，这张图片就变成
 
-![Image text](https://github.com/lovelyfanzi/information/blob/master/qing.jpg?raw=true)
+![Image text](https://github.com/lovelyfanzi/information/blob/master/qingdao2.jpg?raw=true)
 
 这次实验还是很有趣味的，让我图像处理有了更深刻的认识，也为接下来的实验奠定了基础。
