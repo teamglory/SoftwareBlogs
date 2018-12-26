@@ -41,7 +41,7 @@ superman.jpg
 
 output.tif
 
-![Image text](https://github.com/lovelyfanzi/information/blob/master/output.tif)
+![Image text](https://github.com/lovelyfanzi/information/blob/master/aaaa.jpg?raw=true)
 
 
 
